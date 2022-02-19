@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/dogwantfly/escape_seo_test#readme",
   "dependencies": {
+    "bootstrap-icons": "^1.8.1",
     "gulp": "^4.0.2"
   },
   "devDependencies": {
